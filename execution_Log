@@ -1,0 +1,59 @@
+################################################################################
+This is an execution log file. It records the maximum precision in each execution
+time and the normalization(standardization) methods respectively. To help finding
+the techniques that have better average performance.
+################################################################################
+70.89608434%, Non-linear transformation and Logistic Regression classification
+68.82530120%, Non-linear transformation and C-Support Vector classification
+71.68674699%, Non-linear transformation and Logistic Regression classification
+68.33584337%, Non-linear transformation and Artificial neural networks classification
+70.14307229%, Non-linear transformation and Logistic Regression classification
+70.29367470%, Non-linear transformation and C-Support Vector classification
+71.15963855%, Non-linear transformation and Discriminant Analysis classification
+69.35240964%, Non-linear transformation and C-Support Vector classification
+70.18072289%, Binarization and Gaussian NB classification
+70.67018072%, Binarization and Gaussian NB classification
+69.72891566%, MinMax Scaler and C-Support Vector classification
+70.03012048%, Binarization and Gaussian NB classification
+71.34789157%, Standard Scaler and C-Support Vector classification
+69.99246988%, MaxAbs Scaler and Artificial neural networks classification
+69.91716867%, Standard Scaler and Artificial neural networks classification
+69.27710843%, Standard Scaler and C-Support Vector classification
+69.99246988%, Non-linear transformation and Discriminant Analysis classification
+70.21837349%, Binarization and Gaussian NB classification
+69.91716867%, Standard Scaler and Artificial neural networks classification
+69.91716867%, Standard Scaler and Logistic Regression classification
+70.82078313%, MinMax Scaler and C-Support Vector classification
+70.03012048%, MinMax Scaler and C-Support Vector classification
+71.23493976%, Non-linear transformation and C-Support Vector classification
+71.12198795%, Standard Scaler and C-Support Vector classification
+70.97138554%, Non-linear transformation and Artificial neural networks classification
+70.03012048%, Non-linear transformation and C-Support Vector classification
+70.89608434%, Non-linear transformation and Artificial neural networks classification
+69.61596386%, Non-linear transformation and C-Support Vector classification
+71.91265060%, Non-linear transformation and Artificial neural networks classification
+70.63253012%, Binarization and Gaussian NB classification
+70.85843373%, Non-linear transformation and Discriminant Analysis classification
+71.00903614%, Non-linear transformation and C-Support Vector classification
+71.79969880%, MaxAbs Scaler and Logistic Regression classification
+70.03012048%, MaxAbs Scaler and Artificial neural networks classification
+70.59487952%, Standard Scaler and Artificial neural networks classification
+70.10542169%, Non-linear transformation and C-Support Vector classification
+69.46536145%, Standard Scaler and Discriminant Analysis classification
+70.70783133%, Non-linear transformation and C-Support Vector classification
+71.49849398%, Non-linear transformation and C-Support Vector classification
+69.84186747%, MinMax Scaler and Logistic Regression classification
+69.46536145%, MaxAbs Scaler and Artificial neural networks classification
+69.80421687%, Normalization and K Nearest Neighbors classification
+69.46536145%, Normalization and C-Support Vector classification
+70.21837349%, Standard Scaler and Artificial neural networks classification
+70.18072289%, MaxAbs Scaler and Artificial neural networks classification
+70.44427711%, MinMax Scaler and Artificial neural networks classification
+70.25602410%, Standard Scaler and C-Support Vector classification
+69.50301205%, MaxAbs Scaler and Artificial neural networks classification
+69.80421687%, MaxAbs Scaler and Artificial neural networks classification
+69.72891566%, MinMax Scaler and C-Support Vector classification
+70.36897590%, Nonlinear transformation and Discriminant Analysis classification
+70.29367470%, MaxAbs Scaler and Artificial neural networks classification
+70.48192771%, MaxAbs Scaler and Artificial neural networks classification
+70.70783133%, Nonlinear transformation and C-Support Vector classification
