@@ -1,6 +1,6 @@
-# PR_proj
 
-A project about PR study. Aim to create a classifier which can analyze the different attributes of a credit card
+
+This is a project about Patter Recognition study. Aim to create a classifier which can analyze the different attributes of a credit card
 information and predict if the card owner will default on its next credit card payment.
 
 Final_report
