@@ -3,9 +3,6 @@
 This is a project about Patter Recognition study. Aim to create a classifier which can analyze the different attributes of a credit card
 information and predict if the card owner will default on its next credit card payment.
 
-Final_report
-The final report of the proejct.
-
 exeperiment.py
 The exeperiment to make comparisons between different classifiers and normalizers.
 And the comparison between different data set using same classifier and normalizer.
